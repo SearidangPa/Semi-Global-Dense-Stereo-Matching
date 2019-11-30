@@ -1,5 +1,4 @@
 # Semi_Global_Dense_Stereo_Matching
-Author: Searidang Pa
 
 This implementation follows closely from the paper by Heiko. Link to paper: https://pdfs.semanticscholar.org/bcd8/4d8bd864ff903e3fe5b91bed3f2eedacc324.pdf
 
